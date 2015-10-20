@@ -1,0 +1,5 @@
+/home/dev/Desktop/Arif/DllLibrary/Structure/Structure/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/home/dev/Desktop/Arif/DllLibrary/Structure/Structure/bin/Debug/Structure.dll.mdb
+/home/dev/Desktop/Arif/DllLibrary/Structure/Structure/bin/Debug/Structure.dll
+/home/dev/Desktop/Arif/DllLibrary/Structure/Structure/obj/Debug/Structure.dll
+/home/dev/Desktop/Arif/DllLibrary/Structure/Structure/obj/Debug/Structure.dll.mdb

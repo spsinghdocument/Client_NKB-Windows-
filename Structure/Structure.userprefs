@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Structure/Structure.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Structure/MyClass.cs">
+    <Files>
+      <File FileName="Structure/MyClass.cs" Line="9" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/dev2/Documents/Pradeep/Projects/NNF/DllLibrary/Structure/Structure/MyClass.cs" line="1319" column="1" />
+      <Breakpoint file="/home/dev2/Documents/Pradeep/Projects/NNF/DllLibrary/Structure/Structure/MyClass.cs" line="1150" column="1" />
+      <Breakpoint file="/home/dev2/Documents/Pradeep/Projects/NNF/DllLibrary/Structure/Structure/MyClass.cs" line="2471" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
