@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="Tok1B_S" />
+  <Column Input="ATP(S)" />
+  <Column Input="ATP(B)" />
+  <Column Input="F BID" />
+  <Column Input="tok3" />
+  <Column Input="tok1_cost" />
+  <Column Input="tok2_cost" />
+  <Column Input="Symbol" />
+  <Column Input="ExpiryDate" />
+  <Column Input="OptionType" />
+  <Column Input="StrikePrice" />
+  <Column Input="Bid" />
+  <Column Input="BidQ" />
+  <Column Input="TBidOrder" />
+  <Column Input="Ask" />
+  <Column Input="AskQ" />
+  <Column Input="TAskOrder" />
+  <Column Input="LTP" />
+  <Column Input="LTQ" />
+  <Column Input="LTT" />
+  <Column Input="Open" />
+  <Column Input="High" />
+  <Column Input="Low" />
+  <Column Input="Close" />
+  <Column Input="Volume" />
+  <Column Input="OI" />
+  <Column Input="ATP" />
+  <Column Input="TBQ" />
+  <Column Input="TSQ" />
+  <Column Input="TotalTrades" />
+  <Column Input="TotalQtyTraded" />
+  <Column Input="TotalTradedValue" />
+  <Column Input="HighestPriceEver" />
+  <Column Input="LowestPriceever" />
+  <Column Input="DecimalLocator" />
+  <Column Input="Exchange" />
+  <Column Input="Lotsize" />
+  <Column Input="Token3" />
+</Columns>

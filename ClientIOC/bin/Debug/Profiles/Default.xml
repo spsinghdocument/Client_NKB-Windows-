@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="FHD" />
+  <Column Input="NHD" />
+  <Column Input="F LTP" />
+  <Column Input="F ASK" />
+  <Column Input="N LTP" />
+  <Column Input="PF" />
+  <Column Input="N BID" />
+  <Column Input="N ASK" />
+  <Column Input="ratio3" />
+  <Column Input="ratio4" />
+  <Column Input="t1" />
+  <Column Input="t2" />
+  <Column Input="t3" />
+  <Column Input="t4" />
+  <Column Input="t5" />
+  <Column Input="t6" />
+  <Column Input="tok3inst" />
+  <Column Input="tok3_cost" />
+  <Column Input="Token3" />
+  <Column Input="Tok3B_S" />
+  <Column Input="Tok4B_S" />
+  <Column Input="SPREADBUY" />
+  <Column Input="SPREADSELL" />
+  <Column Input="ratio1" />
+  <Column Input="ratio2" />
+  <Column Input="Calc_type" />
+  <Column Input="BUY_price_leg2" />
+  <Column Input="BUY_Price" />
+  <Column Input="tok1inst" />
+  <Column Input="tok2inst" />
+  <Column Input="Token2" />
+</Columns>

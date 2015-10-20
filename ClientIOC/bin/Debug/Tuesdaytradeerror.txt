@@ -1,0 +1,27 @@
+Date : 20/10/2015 Time    :  3:57 PM  Second : 19     milisecond  :  872====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Client.frmNetBook.<netposion2>b__4(IGrouping`2 store) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 183
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 182
+Date : 20/10/2015 Time    :  3:59 PM  Second : 2     milisecond  :  64====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Client.frmNetBook.<netposion2>b__4(IGrouping`2 store) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 183
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 182
+Date : 20/10/2015 Time    :  4:21 PM  Second : 20     milisecond  :  938====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 338
+Date : 20/10/2015 Time    :  5:06 PM  Second : 31     milisecond  :  159====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
+Date : 20/10/2015 Time    :  5:06 PM  Second : 45     milisecond  :  555====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 338
+Date : 20/10/2015 Time    :  5:21 PM  Second : 15     milisecond  :  917====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
+Date : 20/10/2015 Time    :  5:21 PM  Second : 52     milisecond  :  304====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
+Date : 20/10/2015 Time    :  5:21 PM  Second : 58     milisecond  :  385====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 338

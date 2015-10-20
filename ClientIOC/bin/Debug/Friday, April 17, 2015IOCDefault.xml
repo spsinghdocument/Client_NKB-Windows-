@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SPREADFO>
+    <PF>2</PF>
+    <Token1>65928</Token1>
+    <Token2>44301</Token2>
+    <Token3>0</Token3>
+    <Token4>0</Token4>
+    <Tok1B_S>Buy</Tok1B_S>
+    <Tok2B_S>Sell</Tok2B_S>
+    <NEAR>NIFTY15APRFUT</NEAR>
+    <FAR>NIFTY15MAYFUT</FAR>
+    <NBID>0</NBID>
+    <NASK>0</NASK>
+    <NLTP>0</NLTP>
+    <FBID>0</FBID>
+    <FASK>0</FASK>
+    <FLTP>0</FLTP>
+    <tok1inst>FUTIDX</tok1inst>
+    <tok2inst>FUTIDX</tok2inst>
+    <F_BID>0</F_BID>
+    <F_ASK>0</F_ASK>
+    <F_LTP>0</F_LTP>
+    <ratio1>2</ratio1>
+    <ratio2>3</ratio2>
+    <ratio3>0</ratio3>
+    <ratio4>0</ratio4>
+    <Calc_type>ProdDiff</Calc_type>
+    <NHD>0</NHD>
+    <FHD>0</FHD>
+  </SPREADFO>
+</DocumentElement>

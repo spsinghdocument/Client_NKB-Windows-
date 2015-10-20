@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SPREADFO>
+    <PF>6</PF>
+    <Token1>48857</Token1>
+    <Token2>42581</Token2>
+    <NEAR>ARVIND15JULFUT</NEAR>
+    <FAR>ARVIND15AUGFUT</FAR>
+  </SPREADFO>
+  <SPREADFO>
+    <PF>7</PF>
+    <Token1>44975</Token1>
+    <Token2>48834</Token2>
+    <NEAR>ADANIENT15JUNFUT</NEAR>
+    <FAR>ADANIENT15JULFUT</FAR>
+  </SPREADFO>
+  <SPREADFO>
+    <PF>10</PF>
+    <Token1>45078</Token1>
+    <Token2>48937</Token2>
+    <NEAR>BIOCON15JUNFUT</NEAR>
+    <FAR>BIOCON15JULFUT</FAR>
+  </SPREADFO>
+  <SPREADFO>
+    <PF>8</PF>
+    <Token1>44932</Token1>
+    <Token2>48815</Token2>
+    <NEAR>BANKNIFTY15JUNFUT</NEAR>
+    <FAR>BANKNIFTY15JULFUT</FAR>
+  </SPREADFO>
+  <SPREADFO>
+    <PF>9</PF>
+    <Token1>44965</Token1>
+    <Token2>48829</Token2>
+    <NEAR>NIFTY15JUNFUT</NEAR>
+    <FAR>NIFTY15JULFUT</FAR>
+  </SPREADFO>
+</DocumentElement>

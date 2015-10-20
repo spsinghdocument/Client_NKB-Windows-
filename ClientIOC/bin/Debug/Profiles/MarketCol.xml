@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="FHD" />
+  <Column Input="NHD" />
+  <Column Input="F LTP" />
+  <Column Input="F ASK" />
+  <Column Input="N LTP" />
+  <Column Input="PF" />
+  <Column Input="N BID" />
+  <Column Input="N ASK" />
+</Columns>

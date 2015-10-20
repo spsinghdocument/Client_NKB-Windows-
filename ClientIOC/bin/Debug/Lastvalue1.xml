@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <lastvalue>
+    <ORDQTY_x0028_B_x0029_>1</ORDQTY_x0028_B_x0029_>
+    <TOTALQTY_x0028_B_x0029_>20</TOTALQTY_x0028_B_x0029_>
+    <BUYPRICE>-50</BUYPRICE>
+    <SELLPRICE>49</SELLPRICE>
+    <ORDQTY_x0028_S_x0029_>1</ORDQTY_x0028_S_x0029_>
+    <TOTALQTY_x0028_S_x0029_>20</TOTALQTY_x0028_S_x0029_>
+    <PAYUPTIEKS>0</PAYUPTIEKS>
+    <W_T_C>0</W_T_C>
+  </lastvalue>
+</DocumentElement>

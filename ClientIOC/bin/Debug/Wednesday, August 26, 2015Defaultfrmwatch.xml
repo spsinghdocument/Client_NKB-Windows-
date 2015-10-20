@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <frmwatch>
+    <InstrumentName>OPTIDX</InstrumentName>
+    <Description>NIFTY15AUG8000CE</Description>
+    <UniqueIdentifier>43827</UniqueIdentifier>
+    <Symbol>NIFTY</Symbol>
+    <ExpiryDate>1125153000</ExpiryDate>
+    <OptionType>CE</OptionType>
+    <StrikePrice>8000</StrikePrice>
+    <BidQ>100</BidQ>
+    <Bid>482.45</Bid>
+    <AskQ>75</AskQ>
+    <Ask>485.9</Ask>
+    <LTP>486.05</LTP>
+    <TBidOrder>2</TBidOrder>
+    <TAskOrder>1</TAskOrder>
+    <LTQ>125</LTQ>
+    <LTT>26/08/2015 5:07:28 PM</LTT>
+    <Open>570</Open>
+    <High>571.95</High>
+    <Low>466.7</Low>
+    <Close>562.85</Close>
+    <Volume>78500</Volume>
+    <OI>0</OI>
+    <ATP>485.9</ATP>
+    <TBQ>0</TBQ>
+    <TSQ>0</TSQ>
+    <TotalTrades>0</TotalTrades>
+    <TotalQtyTraded>0</TotalQtyTraded>
+    <TotalTradedValue>0</TotalTradedValue>
+    <HighestPriceEver>0</HighestPriceEver>
+    <LowestPriceever>0</LowestPriceever>
+    <DecimalLocator>100</DecimalLocator>
+    <Exchange>NFO</Exchange>
+    <Lotsize>25</Lotsize>
+  </frmwatch>
+</DocumentElement>

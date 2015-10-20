@@ -1,0 +1,14 @@
+Date : 10/9/2015 Time    :  4:33 PM  Second : 43     milisecond  :  336====>>>>>>>Resion Code   0
+Date : 10/9/2015 Time    :  4:51 PM  Second : 44     milisecond  :  201====>>>>>>>Resion Code   0
+Date : 10/9/2015 Time    :  5:32 PM  Second : 26     milisecond  :  792====>>>>>>>Resion Code   0
+Date : 10/9/2015 Time    :  5:36 PM  Second : 45     milisecond  :  637====>>>>>>>Resion Code   0
+Date : 10/9/2015 Time    :  5:47 PM  Second : 21     milisecond  :  267====>>>>>>>Resion Code   0
+Date : 10/9/2015 Time    :  5:56 PM  Second : 11     milisecond  :  72====>>>>>>>Resion Code   0
+Date : 10/9/2015 Time    :  6:13 PM  Second : 56     milisecond  :  539====>>>>>>>Resion Code   0
+Date : 10/9/2015 Time    :  6:16 PM  Second : 17     milisecond  :  894====>>>>>>>Resion Code   0
+Date : 10/16/2015 Time    :  10:02 AM  Second : 13     milisecond  :  798====>>>>>>>Resion Code   0
+Date : 10/16/2015 Time    :  10:02 AM  Second : 14     milisecond  :  23====>>>>>>>Resion Code   0
+Date : 10/16/2015 Time    :  10:07 AM  Second : 14     milisecond  :  638====>>>>>>>Resion Code   0
+Date : 10/16/2015 Time    :  10:07 AM  Second : 14     milisecond  :  823====>>>>>>>Resion Code   0
+Date : 10/16/2015 Time    :  10:11 AM  Second : 21     milisecond  :  818====>>>>>>>Resion Code   0
+Date : 10/16/2015 Time    :  10:11 AM  Second : 22     milisecond  :  11====>>>>>>>Resion Code   0

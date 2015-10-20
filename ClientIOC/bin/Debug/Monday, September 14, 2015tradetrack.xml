@@ -1,0 +1,355 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-1358.2</ACTUALPRICE>
+    <GIVENPRICESEll>170</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14012379064867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>741.36</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-190</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14012385364867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-1141.64</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-190</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14012402664867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>1202.98</ACTUALPRICE>
+    <GIVENPRICESEll>170</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14012408464867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-1045.12</ACTUALPRICE>
+    <GIVENPRICESEll>170</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14012476564867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-231.2</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-190</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14012482964867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-490.91</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032797164871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-897.99</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032808764871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>678.54</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032820364871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-26.18</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032826164871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>470.16</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032898364871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-607.78</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032909964871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>395.85</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032921764871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>414.93</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032933764871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>1138.51</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14032939664871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-45.74</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033008064871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-560.22</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033014164871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>1077.53</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033031764871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-541.11</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033037464871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-77.98</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033104764871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-154.87</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033110564871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>529.2</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033128864871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-1241.33</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033140264871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>1195.46</ACTUALPRICE>
+    <GIVENPRICESEll>950</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033145864871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>298.25</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033202564871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>7</PF_ID>
+    <SYMBOL>H        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-432.16</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-960</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14033214664871</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>413.84</ACTUALPRICE>
+    <GIVENPRICESEll>170</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14563523564867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL>?        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>-495.84</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-190</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14563529264867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>717.6</ACTUALPRICE>
+    <GIVENPRICESEll>170</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14563581164867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>6</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Partial 	0.5</QTY>
+    <ACTUALPRICE>782.38</ACTUALPRICE>
+    <GIVENPRICESEll>170</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14563602964867</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>8</PF_ID>
+    <SYMBOL xml:space="preserve">          </SYMBOL>
+    <B_x002F_S>SELL</B_x002F_S>
+    <QTY>Complete 	1</QTY>
+    <ACTUALPRICE>1668.19</ACTUALPRICE>
+    <GIVENPRICESEll>380</GIVENPRICESEll>
+    <GIVENPRICEBUY>0</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14582757264862</Unique_id>
+  </NetTable>
+  <NetTable>
+    <PF_ID>8</PF_ID>
+    <SYMBOL>?        </SYMBOL>
+    <B_x002F_S>BUY</B_x002F_S>
+    <QTY>Complete 	1</QTY>
+    <ACTUALPRICE>-1578.45</ACTUALPRICE>
+    <GIVENPRICESEll>0</GIVENPRICESEll>
+    <GIVENPRICEBUY>-380</GIVENPRICEBUY>
+    <TIME>00:00:00.000</TIME>
+    <Unique_id>14582769264862</Unique_id>
+  </NetTable>
+</DocumentElement>

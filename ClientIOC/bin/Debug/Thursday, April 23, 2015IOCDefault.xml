@@ -1,0 +1,41 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <SPREADFO>
+    <PF>1</PF>
+    <Token1>65928</Token1>
+    <Token2>44301</Token2>
+    <Token3>0</Token3>
+    <Token4>0</Token4>
+    <Tok1B_S>Buy</Tok1B_S>
+    <Tok2B_S>Sell</Tok2B_S>
+    <NEAR>NIFTY15APRFUT</NEAR>
+    <FAR>NIFTY15MAYFUT</FAR>
+    <NBID>8703.1</NBID>
+    <NASK>8704.9</NASK>
+    <NLTP>8703</NLTP>
+    <FBID>8755.65</FBID>
+    <FASK>8756.6</FASK>
+    <FLTP>8755.05</FLTP>
+    <tok1_cost>31.33116</tok1_cost>
+    <tok2_cost>47.005109999999995</tok2_cost>
+    <cost>78.33627</cost>
+    <tok1inst>FUTIDX</tok1inst>
+    <tok2inst>FUTIDX</tok2inst>
+    <F_BID>0</F_BID>
+    <F_ASK>0</F_ASK>
+    <F_LTP>0</F_LTP>
+    <ratio1>2</ratio1>
+    <ratio2>3</ratio2>
+    <ratio3>0</ratio3>
+    <ratio4>0</ratio4>
+    <t1>-17409.8</t1>
+    <t2>26266.949999999997</t2>
+    <t3>17406.2</t3>
+    <t4>-26269.800000000003</t4>
+    <Calc_type>ProdDiff</Calc_type>
+    <CMP_x0028_B_x0029_>8857.1499999999978</CMP_x0028_B_x0029_>
+    <NHD>50.75</NHD>
+    <CMP_x0028_S_x0029_>8863.6000000000022</CMP_x0028_S_x0029_>
+    <FHD>53.5</FHD>
+  </SPREADFO>
+</DocumentElement>

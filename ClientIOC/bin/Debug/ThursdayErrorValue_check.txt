@@ -1,0 +1,115 @@
+Date : 18/06/2015 Time    :  1:14 PM  Second : 17     milisecond  :  669====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:20 PM  Second : 2     milisecond  :  109====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:20 PM  Second : 5     milisecond  :  199====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:45 PM  Second : 39     milisecond  :  756====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:45 PM  Second : 41     milisecond  :  757====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:45 PM  Second : 43     milisecond  :  872====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:47 PM  Second : 41     milisecond  :  645====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:48 PM  Second : 47     milisecond  :  864====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:48 PM  Second : 48     milisecond  :  870====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:48 PM  Second : 48     milisecond  :  980====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  1:59 PM  Second : 14     milisecond  :  124====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:04 PM  Second : 19     milisecond  :  607====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 18/06/2015 Time    :  2:04 PM  Second : 50     milisecond  :  563====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:04 PM  Second : 50     milisecond  :  634====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:04 PM  Second : 53     milisecond  :  10====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:07 PM  Second : 5     milisecond  :  23====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:07 PM  Second : 26     milisecond  :  375====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:07 PM  Second : 35     milisecond  :  630====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:07 PM  Second : 37     milisecond  :  956====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:07 PM  Second : 38     milisecond  :  636====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:07 PM  Second : 45     milisecond  :  988====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  2:10 PM  Second : 14     milisecond  :  598====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 15     milisecond  :  915====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 21     milisecond  :  878====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 25     milisecond  :  968====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 37     milisecond  :  748====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 41     milisecond  :  283====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 47     milisecond  :  536====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 55     milisecond  :  835====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:11 PM  Second : 57     milisecond  :  364====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:12 PM  Second : 10     milisecond  :  758====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:12 PM  Second : 27     milisecond  :  435====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:12 PM  Second : 35     milisecond  :  291====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:12 PM  Second : 42     milisecond  :  723====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:12 PM  Second : 55     milisecond  :  328====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:12 PM  Second : 56     milisecond  :  586====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 0     milisecond  :  282====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 1     milisecond  :  333====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 2     milisecond  :  396====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 3     milisecond  :  672====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 6     milisecond  :  0====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 14     milisecond  :  676====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 22     milisecond  :  156====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 27     milisecond  :  754====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 35     milisecond  :  23====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 40     milisecond  :  266====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 41     milisecond  :  839====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 44     milisecond  :  127====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 49     milisecond  :  512====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 58     milisecond  :  58====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:13 PM  Second : 58     milisecond  :  980====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:14 PM  Second : 5     milisecond  :  424====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:14 PM  Second : 9     milisecond  :  815====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:14 PM  Second : 57     milisecond  :  67====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:15 PM  Second : 6     milisecond  :  218====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:15 PM  Second : 8     milisecond  :  602====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:15 PM  Second : 11     milisecond  :  169====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:15 PM  Second : 36     milisecond  :  764====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:15 PM  Second : 41     milisecond  :  470====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  4:15 PM  Second : 43     milisecond  :  329====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:09 PM  Second : 38     milisecond  :  449====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:09 PM  Second : 47     milisecond  :  75====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:10 PM  Second : 7     milisecond  :  792====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:12 PM  Second : 46     milisecond  :  997====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:12 PM  Second : 56     milisecond  :  314====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:13 PM  Second : 1     milisecond  :  58====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:13 PM  Second : 4     milisecond  :  78====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:13 PM  Second : 5     milisecond  :  624====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 18/06/2015 Time    :  5:13 PM  Second : 18     milisecond  :  313====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 09/07/2015 Time    :  12:12 PM  Second : 42     milisecond  :  354====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 09/07/2015 Time    :  12:35 PM  Second : 13     milisecond  :  615====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 09/07/2015 Time    :  2:23 PM  Second : 37     milisecond  :  348====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 09/07/2015 Time    :  3:00 PM  Second : 19     milisecond  :  276====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 30/07/2015 Time    :  5:34 PM  Second : 48     milisecond  :  247====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/07/2015 Time    :  5:34 PM  Second : 48     milisecond  :  354====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/07/2015 Time    :  5:34 PM  Second : 50     milisecond  :  689====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/07/2015 Time    :  5:34 PM  Second : 50     milisecond  :  767====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 15     milisecond  :  224====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 15     milisecond  :  424====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 15     milisecond  :  470====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 15     milisecond  :  513====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 16     milisecond  :  24====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 16     milisecond  :  71====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 16     milisecond  :  112====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 16     milisecond  :  171====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 17     milisecond  :  38====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 06/08/2015 Time    :  10:10 AM  Second : 17     milisecond  :  126====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 03/09/2015 Time    :  11:31 AM  Second : 2     milisecond  :  682====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  11:31 AM  Second : 2     milisecond  :  818====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  11:31 AM  Second : 2     milisecond  :  994====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  11:31 AM  Second : 3     milisecond  :  137====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  11:33 AM  Second : 11     milisecond  :  772====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  11:33 AM  Second : 11     milisecond  :  945====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:08 PM  Second : 58     milisecond  :  420====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:08 PM  Second : 58     milisecond  :  611====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:08 PM  Second : 58     milisecond  :  994====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:08 PM  Second : 59     milisecond  :  60====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:08 PM  Second : 59     milisecond  :  236====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:08 PM  Second : 59     milisecond  :  305====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:13 PM  Second : 24     milisecond  :  745====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:13 PM  Second : 24     milisecond  :  920====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:13 PM  Second : 25     milisecond  :  65====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  12:13 PM  Second : 25     milisecond  :  141====>>>>>>>Value Check update in gridviewInput string was not in a correct format.
+Date : 03/09/2015 Time    :  5:31 PM  Second : 40     milisecond  :  381====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:31 PM  Second : 40     milisecond  :  543====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:31 PM  Second : 40     milisecond  :  683====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:31 PM  Second : 40     milisecond  :  787====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:31 PM  Second : 58     milisecond  :  841====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:57 PM  Second : 58     milisecond  :  228====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:57 PM  Second : 58     milisecond  :  352====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:57 PM  Second : 58     milisecond  :  537====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:57 PM  Second : 58     milisecond  :  665====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 03/09/2015 Time    :  5:57 PM  Second : 58     milisecond  :  787====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 10/09/2015 Time    :  10:24 AM  Second : 58     milisecond  :  889====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 24/09/2015 Time    :  9:16 AM  Second : 14     milisecond  :  19====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.

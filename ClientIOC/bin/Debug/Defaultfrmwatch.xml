@@ -1,0 +1,103 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <frmwatch>
+    <InstrumentName_x0028_A_x0029_ />
+    <DescriptionB />
+    <Symbol_x0028_C_x0029_ />
+    <ExpiryDate_x0028_D_x0029_ />
+    <OptionType_x0028_E_x0029_ />
+    <StrikePrice_x0028_F_x0029_ />
+    <Bid_x0028_G_x0029_ />
+    <Ask_x0028_H_x0029_ />
+    <LTP_x0028_I_x0029_ />
+    <LTP_Vol_x0028_J_x0029_ />
+    <Bid_Vol_x0028_K_x0029_ />
+    <Ask_Vol_x0028_L_x0029_ />
+    <Delta_x0028_M_x0029_ />
+    <Gamma_x0028_N_x0029_ />
+    <Vega_x0028_O_x0029_ />
+    <Theta_x0028_P_x0029_ />
+    <Rho_x0028_Q_x0029_ />
+    <R />
+    <S />
+    <T />
+    <U />
+    <V>= O1+P1</V>
+    <W />
+    <X />
+    <Y />
+    <Z />
+    <UniqueIdentifier_FUT />
+    <LTP_FUT />
+    <UniqueIdentifier />
+    <BidQ />
+    <AskQ />
+    <LTQ />
+    <Open />
+    <High />
+    <Low />
+    <Close />
+    <Volume />
+    <OI />
+    <ATP />
+    <TBQ />
+    <TSQ />
+    <TotalTrades />
+    <TotalQtyTraded />
+    <TotalTradedValue />
+    <HighestPriceEver />
+    <LowestPriceever />
+    <Exchange />
+    <Lotsize />
+  </frmwatch>
+  <frmwatch>
+    <InstrumentName_x0028_A_x0029_>OPTIDX</InstrumentName_x0028_A_x0029_>
+    <DescriptionB>NIFTY15SEP8000PE</DescriptionB>
+    <Symbol_x0028_C_x0029_>NIFTY</Symbol_x0028_C_x0029_>
+    <ExpiryDate_x0028_D_x0029_>24/09/2015 2:30:00 PM</ExpiryDate_x0028_D_x0029_>
+    <OptionType_x0028_E_x0029_>PE</OptionType_x0028_E_x0029_>
+    <StrikePrice_x0028_F_x0029_>8000</StrikePrice_x0028_F_x0029_>
+    <Bid_x0028_G_x0029_>140.5</Bid_x0028_G_x0029_>
+    <Ask_x0028_H_x0029_>140.9</Ask_x0028_H_x0029_>
+    <LTP_x0028_I_x0029_>140.9</LTP_x0028_I_x0029_>
+    <LTP_Vol_x0028_J_x0029_>20.9541</LTP_Vol_x0028_J_x0029_>
+    <Bid_Vol_x0028_K_x0029_>20.9084</Bid_Vol_x0028_K_x0029_>
+    <Ask_Vol_x0028_L_x0029_>20.9541</Ask_Vol_x0028_L_x0029_>
+    <Delta_x0028_M_x0029_>-0.4156</Delta_x0028_M_x0029_>
+    <Gamma_x0028_N_x0029_>0.0016</Gamma_x0028_N_x0029_>
+    <Vega_x0028_O_x0029_ />
+    <Theta_x0028_P_x0029_>-3.3302</Theta_x0028_P_x0029_>
+    <Rho_x0028_Q_x0029_>-2.5917</Rho_x0028_Q_x0029_>
+    <R />
+    <S />
+    <T />
+    <U />
+    <V />
+    <W />
+    <X />
+    <Y />
+    <Z />
+    <UniqueIdentifier_FUT>44576</UniqueIdentifier_FUT>
+    <LTP_FUT>7740</LTP_FUT>
+    <UniqueIdentifier>64857</UniqueIdentifier>
+    <BidQ>0</BidQ>
+    <AskQ>0</AskQ>
+    <LTQ>0</LTQ>
+    <Open>0</Open>
+    <High>0</High>
+    <Low>0</Low>
+    <Close>0</Close>
+    <Volume>0</Volume>
+    <OI>0.100669860839844</OI>
+    <ATP>0.209541320800781</ATP>
+    <TBQ>0</TBQ>
+    <TSQ>0</TSQ>
+    <TotalTrades>0</TotalTrades>
+    <TotalQtyTraded>0</TotalQtyTraded>
+    <TotalTradedValue>0</TotalTradedValue>
+    <HighestPriceEver>0</HighestPriceEver>
+    <LowestPriceever>0</LowestPriceever>
+    <Exchange>NFO</Exchange>
+    <Lotsize>25</Lotsize>
+  </frmwatch>
+</DocumentElement>

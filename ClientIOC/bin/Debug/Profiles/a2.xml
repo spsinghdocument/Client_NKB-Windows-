@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Columns>
+  <Column Input="LTT" />
+  <Column Input="Open" />
+  <Column Input="High" />
+  <Column Input="Low" />
+  <Column Input="Close" />
+  <Column Input="Volume" />
+  <Column Input="OI" />
+  <Column Input="ATP" />
+  <Column Input="TBQ" />
+  <Column Input="TSQ" />
+  <Column Input="TotalTrades" />
+  <Column Input="TotalQtyTraded" />
+  <Column Input="TotalTradedValue" />
+  <Column Input="HighestPriceEver" />
+  <Column Input="LowestPriceever" />
+</Columns>

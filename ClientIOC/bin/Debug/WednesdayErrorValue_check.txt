@@ -1,0 +1,464 @@
+Date : 24/06/2015 Time    :  1:56 PM  Second : 6     milisecond  :  640====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 24/06/2015 Time    :  1:57 PM  Second : 30     milisecond  :  59====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  1:57 PM  Second : 32     milisecond  :  894====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  2:45 PM  Second : 21     milisecond  :  261====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  2:45 PM  Second : 21     milisecond  :  773====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  3:19 PM  Second : 30     milisecond  :  374====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  3:19 PM  Second : 40     milisecond  :  972====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  3:19 PM  Second : 46     milisecond  :  985====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  3:19 PM  Second : 47     milisecond  :  540====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  3:19 PM  Second : 59     milisecond  :  379====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 24/06/2015 Time    :  3:20 PM  Second : 3     milisecond  :  583====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 01/07/2015 Time    :  1:16 PM  Second : 44     milisecond  :  493====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 01/07/2015 Time    :  1:16 PM  Second : 44     milisecond  :  532====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 01/07/2015 Time    :  1:16 PM  Second : 44     milisecond  :  601====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 01/07/2015 Time    :  1:19 PM  Second : 41     milisecond  :  456====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 01/07/2015 Time    :  1:19 PM  Second : 41     milisecond  :  567====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 01/07/2015 Time    :  1:19 PM  Second : 41     milisecond  :  657====>>>>>>>Value Check update in gridviewArithmetic operation resulted in an overflow.
+Date : 08/07/2015 Time    :  2:47 PM  Second : 16     milisecond  :  997====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 17     milisecond  :  97====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 17     milisecond  :  406====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 17     milisecond  :  450====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 17     milisecond  :  902====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 28     milisecond  :  710====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 29     milisecond  :  577====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 29     milisecond  :  704====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 30     milisecond  :  493====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 08/07/2015 Time    :  2:47 PM  Second : 30     milisecond  :  899====>>>>>>>Value Check update in gridviewColumn named Buy cannot be found.
+Parameter name: columnName
+Date : 07-15-2015 Time    :  9:00 AM  Second : 19     milisecond  :  273====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  9:00 AM  Second : 19     milisecond  :  314====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  9:02 AM  Second : 15     milisecond  :  628====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  9:07 AM  Second : 51     milisecond  :  57====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  9:11 AM  Second : 26     milisecond  :  939====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  9:31 AM  Second : 26     milisecond  :  304====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  9:39 AM  Second : 34     milisecond  :  267====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  9:57 AM  Second : 12     milisecond  :  647====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  2:55 PM  Second : 33     milisecond  :  174====>>>>>>>Value Check update in gridviewColumn 'Buy_SellIndicator' does not belong to table NetTable.
+Date : 07-15-2015 Time    :  3:03 PM  Second : 4     milisecond  :  18====>>>>>>>Value Check update in gridviewColumn 'Buy_SellIndicator' does not belong to table NetTable.
+Date : 07-15-2015 Time    :  3:52 PM  Second : 15     milisecond  :  15====>>>>>>>Value Check update in gridviewSpecified cast is not valid.
+Date : 07-15-2015 Time    :  5:38 PM  Second : 7     milisecond  :  552====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  5:43 PM  Second : 45     milisecond  :  613====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  5:46 PM  Second : 50     milisecond  :  898====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 07-15-2015 Time    :  5:48 PM  Second : 51     milisecond  :  567====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 02/09/2015 Time    :  11:32 AM  Second : 8     milisecond  :  121====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 02/09/2015 Time    :  2:32 PM  Second : 7     milisecond  :  437====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  2:32 PM  Second : 7     milisecond  :  542====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  2:32 PM  Second : 7     milisecond  :  677====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  2:32 PM  Second : 7     milisecond  :  767====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  2:32 PM  Second : 40     milisecond  :  601====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  2:32 PM  Second : 53     milisecond  :  606====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  3:14 PM  Second : 50     milisecond  :  621====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  3:17 PM  Second : 49     milisecond  :  949====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  5:04 PM  Second : 9     milisecond  :  32====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  5:34 PM  Second : 19     milisecond  :  99====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  5:35 PM  Second : 44     milisecond  :  62====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  5:35 PM  Second : 45     milisecond  :  338====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 02/09/2015 Time    :  5:35 PM  Second : 46     milisecond  :  355====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV' accessed from a thread other than the thread it was created on.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  267====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  311====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  352====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  402====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  456====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  512====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  597====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 16/09/2015 Time    :  1:50 PM  Second : 19     milisecond  :  652====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  9:32 AM  Second : 11     milisecond  :  693====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 16     milisecond  :  67====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 17     milisecond  :  389====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 23     milisecond  :  474====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 25     milisecond  :  472====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 30     milisecond  :  539====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 30     milisecond  :  632====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 33     milisecond  :  211====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 35     milisecond  :  172====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 37     milisecond  :  327====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 37     milisecond  :  964====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 38     milisecond  :  101====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 38     milisecond  :  950====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 39     milisecond  :  947====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 43     milisecond  :  343====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 44     milisecond  :  944====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 46     milisecond  :  794====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 46     milisecond  :  970====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 47     milisecond  :  183====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 47     milisecond  :  971====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 50     milisecond  :  836====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 50     milisecond  :  996====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  10:57 AM  Second : 54     milisecond  :  201====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:01 AM  Second : 58     milisecond  :  874====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 0     milisecond  :  588====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 1     milisecond  :  878====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 3     milisecond  :  996====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 4     milisecond  :  778====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 7     milisecond  :  725====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 7     milisecond  :  905====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 10     milisecond  :  910====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 11     milisecond  :  902====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 15     milisecond  :  456====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 15     milisecond  :  682====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 19     milisecond  :  545====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 20     milisecond  :  923====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 22     milisecond  :  240====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 27     milisecond  :  391====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 31     milisecond  :  140====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 33     milisecond  :  770====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 34     milisecond  :  801====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 36     milisecond  :  772====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 41     milisecond  :  104====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 42     milisecond  :  313====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 44     milisecond  :  782====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 44     milisecond  :  962====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 46     milisecond  :  9====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 46     milisecond  :  801====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 49     milisecond  :  304====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 49     milisecond  :  400====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 50     milisecond  :  972====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 51     milisecond  :  569====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 55     milisecond  :  924====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 56     milisecond  :  560====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 56     milisecond  :  823====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 57     milisecond  :  26====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 57     milisecond  :  431====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 57     milisecond  :  513====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 57     milisecond  :  747====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:02 AM  Second : 58     milisecond  :  757====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:03 AM  Second : 0     milisecond  :  593====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 4     milisecond  :  696====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 5     milisecond  :  778====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 6     milisecond  :  782====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 10     milisecond  :  640====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 11     milisecond  :  43====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 11     milisecond  :  146====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 11     milisecond  :  804====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 13     milisecond  :  168====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 13     milisecond  :  514====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 14     milisecond  :  203====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 14     milisecond  :  498====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 15     milisecond  :  899====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 16     milisecond  :  739====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 16     milisecond  :  891====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 17     milisecond  :  82====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 17     milisecond  :  554====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 18     milisecond  :  175====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 18     milisecond  :  738====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 19     milisecond  :  357====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 19     milisecond  :  548====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 19     milisecond  :  708====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 23     milisecond  :  60====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 23     milisecond  :  569====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 23     milisecond  :  728====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 24     milisecond  :  96====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 24     milisecond  :  281====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 25     milisecond  :  324====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 25     milisecond  :  542====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 25     milisecond  :  711====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 26     milisecond  :  99====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 28     milisecond  :  167====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 28     milisecond  :  702====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 28     milisecond  :  892====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 29     milisecond  :  76====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 29     milisecond  :  920====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 31     milisecond  :  697====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 31     milisecond  :  779====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 33     milisecond  :  597====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 33     milisecond  :  718====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 34     milisecond  :  132====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 34     milisecond  :  601====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 36     milisecond  :  71====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 36     milisecond  :  490====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 51     milisecond  :  133====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 51     milisecond  :  514====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  11:05 AM  Second : 59     milisecond  :  206====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 2     milisecond  :  688====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 6     milisecond  :  932====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 9     milisecond  :  512====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 10     milisecond  :  924====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 11     milisecond  :  946====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 12     milisecond  :  597====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 15     milisecond  :  600====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 15     milisecond  :  747====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 15     milisecond  :  952====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 16     milisecond  :  779====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 17     milisecond  :  121====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 21     milisecond  :  518====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 21     milisecond  :  769====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 23     milisecond  :  205====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 23     milisecond  :  848====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 24     milisecond  :  21====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 24     milisecond  :  189====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  11:06 AM  Second : 26     milisecond  :  6====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:28 PM  Second : 57     milisecond  :  885====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 5     milisecond  :  45====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 5     milisecond  :  888====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 10     milisecond  :  49====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 11     milisecond  :  686====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 14     milisecond  :  598====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 15     milisecond  :  92====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 15     milisecond  :  229====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 18     milisecond  :  36====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 20     milisecond  :  555====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 23     milisecond  :  723====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 23     milisecond  :  832====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 25     milisecond  :  270====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 27     milisecond  :  61====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 27     milisecond  :  261====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 27     milisecond  :  348====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  2:29 PM  Second : 29     milisecond  :  164====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:30 PM  Second : 45     milisecond  :  699====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:30 PM  Second : 50     milisecond  :  293====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:30 PM  Second : 50     milisecond  :  827====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:30 PM  Second : 53     milisecond  :  881====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:30 PM  Second : 59     milisecond  :  365====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:31 PM  Second : 1     milisecond  :  77====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:32 PM  Second : 55     milisecond  :  322====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:32 PM  Second : 55     milisecond  :  733====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:34 PM  Second : 0     milisecond  :  600====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:35 PM  Second : 19     milisecond  :  4====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:35 PM  Second : 20     milisecond  :  176====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:35 PM  Second : 22     milisecond  :  524====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:35 PM  Second : 22     milisecond  :  798====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:51 PM  Second : 30     milisecond  :  222====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:53 PM  Second : 10     milisecond  :  121====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  2:53 PM  Second : 10     milisecond  :  305====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  3:05 PM  Second : 24     milisecond  :  208====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:16 PM  Second : 22     milisecond  :  82====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:16 PM  Second : 24     milisecond  :  207====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:26 PM  Second : 24     milisecond  :  84====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:39 PM  Second : 41     milisecond  :  591====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:43 PM  Second : 38     milisecond  :  307====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  3:44 PM  Second : 25     milisecond  :  810====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:44 PM  Second : 28     milisecond  :  606====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:44 PM  Second : 28     milisecond  :  792====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:44 PM  Second : 34     milisecond  :  820====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:45 PM  Second : 11     milisecond  :  218====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:53 PM  Second : 55     milisecond  :  691====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  3:53 PM  Second : 57     milisecond  :  489====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:53 PM  Second : 58     milisecond  :  957====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:53 PM  Second : 59     milisecond  :  415====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 0     milisecond  :  954====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 3     milisecond  :  738====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 4     milisecond  :  591====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 6     milisecond  :  320====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 7     milisecond  :  66====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 8     milisecond  :  691====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 9     milisecond  :  871====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 11     milisecond  :  913====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 14     milisecond  :  29====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 15     milisecond  :  591====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 15     milisecond  :  878====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 17     milisecond  :  136====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 17     milisecond  :  572====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 18     milisecond  :  412====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 20     milisecond  :  146====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 56     milisecond  :  711====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  3:54 PM  Second : 57     milisecond  :  273====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:55 PM  Second : 0     milisecond  :  30====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  3:55 PM  Second : 0     milisecond  :  666====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  3:55 PM  Second : 1     milisecond  :  973====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  3:55 PM  Second : 2     milisecond  :  213====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  3:55 PM  Second : 4     milisecond  :  117====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  3:55 PM  Second : 5     milisecond  :  58====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 11     milisecond  :  3====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 18     milisecond  :  741====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 20     milisecond  :  127====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 20     milisecond  :  811====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 21     milisecond  :  502====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 23     milisecond  :  344====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 24     milisecond  :  722====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 26     milisecond  :  216====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 26     milisecond  :  304====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:06 PM  Second : 28     milisecond  :  928====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 24     milisecond  :  320====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 25     milisecond  :  306====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 36     milisecond  :  992====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 37     milisecond  :  821====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 44     milisecond  :  823====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 47     milisecond  :  487====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 47     milisecond  :  959====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 53     milisecond  :  405====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 57     milisecond  :  431====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  4:09 PM  Second : 59     milisecond  :  789====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:10 PM  Second : 3     milisecond  :  520====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:11 PM  Second : 16     milisecond  :  570====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  4:11 PM  Second : 17     milisecond  :  284====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 16     milisecond  :  387====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 17     milisecond  :  146====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 17     milisecond  :  687====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 22     milisecond  :  55====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 22     milisecond  :  726====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 23     milisecond  :  240====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 23     milisecond  :  334====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 25     milisecond  :  114====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 25     milisecond  :  638====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 25     milisecond  :  704====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 26     milisecond  :  159====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 27     milisecond  :  432====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 28     milisecond  :  158====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 29     milisecond  :  770====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 31     milisecond  :  866====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 31     milisecond  :  931====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 34     milisecond  :  362====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 35     milisecond  :  145====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 38     milisecond  :  13====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 39     milisecond  :  68====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 39     milisecond  :  182====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 39     milisecond  :  980====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:12 PM  Second : 41     milisecond  :  993====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 52     milisecond  :  301====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 52     milisecond  :  508====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  374====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  450====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  538====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  597====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  675====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  731====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  795====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  854====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  918====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 54     milisecond  :  994====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  53====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  109====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  170====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  227====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  290====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  350====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  422====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  481====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  547====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  600====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  656====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  708====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  776====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  833====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  887====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  934====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 55     milisecond  :  987====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  74====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  131====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  181====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  237====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  285====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  344====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  397====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  458====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  509====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  581====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  631====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  682====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  727====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  779====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  827====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  880====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  924====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 56     milisecond  :  998====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  65====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  141====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  192====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  259====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  314====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  396====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  465====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  524====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  571====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  637====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  704====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  756====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  804====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  860====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  907====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 57     milisecond  :  960====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  9====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  64====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  117====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  219====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  278====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  332====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  391====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  453====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  510====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  570====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  625====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  680====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  758====>>>>>>>Value Check update in gridviewCross-thread operation not valid: Control 'DGV1' accessed from a thread other than the thread it was created on.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  826====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  882====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  933====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 58     milisecond  :  994====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  72====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  141====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  200====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  254====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  432====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  492====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  552====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  603====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  691====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  742====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  799====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  852====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  901====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:18 PM  Second : 59     milisecond  :  950====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  7====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  61====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  126====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  184====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  241====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  297====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  365====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  416====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  474====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  520====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  576====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  646====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  696====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  750====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  802====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  857====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  908====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 0     milisecond  :  963====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  16====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  114====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  198====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  261====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  326====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  404====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  476====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  544====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  612====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  675====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  739====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  805====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  883====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 1     milisecond  :  958====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:19 PM  Second : 2     milisecond  :  17====>>>>>>>Value Check update in gridviewObject cannot be cast from DBNull to other types.
+Date : 30/09/2015 Time    :  4:22 PM  Second : 9     milisecond  :  938====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  5:09 PM  Second : 55     milisecond  :  187====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  5:09 PM  Second : 55     milisecond  :  310====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  5:09 PM  Second : 57     milisecond  :  296====>>>>>>>Value Check update in gridviewCollection was modified; enumeration operation might not execute.
+Date : 30/09/2015 Time    :  5:32 PM  Second : 17     milisecond  :  790====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  5:36 PM  Second : 33     milisecond  :  527====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  5:36 PM  Second : 33     milisecond  :  607====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  5:36 PM  Second : 35     milisecond  :  669====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  5:36 PM  Second : 36     milisecond  :  96====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  5:38 PM  Second : 39     milisecond  :  467====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:00 PM  Second : 49     milisecond  :  816====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:00 PM  Second : 50     milisecond  :  853====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:05 PM  Second : 26     milisecond  :  119====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:08 PM  Second : 22     milisecond  :  695====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:12 PM  Second : 15     milisecond  :  258====>>>>>>>Value Check update in gridviewObject reference not set to an instance of an object.
+Date : 30/09/2015 Time    :  6:12 PM  Second : 15     milisecond  :  486====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:12 PM  Second : 16     milisecond  :  178====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:12 PM  Second : 16     milisecond  :  291====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:12 PM  Second : 20     milisecond  :  870====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:12 PM  Second : 49     milisecond  :  545====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.
+Date : 30/09/2015 Time    :  6:12 PM  Second : 50     milisecond  :  188====>>>>>>>Value Check update in gridviewThis row has been removed from a table and does not have any data.  BeginEdit() will allow creation of new data in this row.

@@ -1,0 +1,38 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <frmwatch>
+    <InstrumentName>FUTIDX</InstrumentName>
+    <Description>BANKNIFTY15SEPFUT</Description>
+    <UniqueIdentifier>44571</UniqueIdentifier>
+    <Symbol>BANKNIFTY</Symbol>
+    <ExpiryDate>1127572200</ExpiryDate>
+    <OptionType>XX</OptionType>
+    <StrikePrice>-1</StrikePrice>
+    <BidQ>100</BidQ>
+    <Bid>16328</Bid>
+    <AskQ>25</AskQ>
+    <Ask>16330</Ask>
+    <LTP>16328.05</LTP>
+    <TBidOrder>1</TBidOrder>
+    <TAskOrder>1</TAskOrder>
+    <LTQ>25</LTQ>
+    <LTT>02/09/2015 11:31:24 AM</LTT>
+    <Open>16748</Open>
+    <High>16779</High>
+    <Low>16283</Low>
+    <Close>16563.35</Close>
+    <Volume>2673450</Volume>
+    <OI>0</OI>
+    <ATP>16330</ATP>
+    <TBQ>0</TBQ>
+    <TSQ>0</TSQ>
+    <TotalTrades>0</TotalTrades>
+    <TotalQtyTraded>0</TotalQtyTraded>
+    <TotalTradedValue>0</TotalTradedValue>
+    <HighestPriceEver>0</HighestPriceEver>
+    <LowestPriceever>0</LowestPriceever>
+    <DecimalLocator>100</DecimalLocator>
+    <Exchange>NFO</Exchange>
+    <Lotsize>25</Lotsize>
+  </frmwatch>
+</DocumentElement>
