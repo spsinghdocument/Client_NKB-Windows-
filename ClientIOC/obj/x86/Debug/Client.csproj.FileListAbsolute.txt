@@ -824,9 +824,8 @@ E:\NKB\ClientIOC\obj\x86\Debug\Client.csproj.GenerateResource.Cache
 E:\NKB\ClientIOC\obj\x86\Debug\Client.exe
 E:\NKB\ClientIOC\obj\x86\Debug\Client.pdb
 E:\NKB\ClientIOC\bin\Debug\Client.pdb
-C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\bin\Debug\Client.exe.config
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\bin\Debug\Client.exe
-C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\bin\Debug\Client.pdb
+C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\bin\Debug\Client.exe.config
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\bin\Debug\CalcEngine.dll
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\obj\x86\Debug\Client.AddSpreadToken.resources
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\obj\x86\Debug\Client.AddToken.resources
@@ -857,4 +856,10 @@ C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\obj\x86\Debug\Client.Tr
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\obj\x86\Debug\Client.csproj.GenerateResource.Cache
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\obj\x86\Debug\Client.exe
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\obj\x86\Debug\Client.pdb
+C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\bin\Debug\Client.pdb
 C:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\bin\Debug\CalcEngine.dll
+C:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\obj\x86\Debug\Client.frmMarketDepth.resources
+C:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\obj\x86\Debug\Client.frmMWatch.resources
+C:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\obj\x86\Debug\OrderBook.GUI.FrmOrderBook.resources
+C:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\obj\x86\Debug\Client.Spot.frmSpot.resources

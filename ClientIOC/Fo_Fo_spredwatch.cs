@@ -1732,6 +1732,35 @@ namespace Client
             DGV1.Columns["NHD"].SortMode = DataGridViewColumnSortMode.NotSortable;
             DGV1.Columns["FHD"].SortMode = DataGridViewColumnSortMode.NotSortable;
 
+    
+            DGV1.Columns["Expiry"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["Expiry2"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["Expiry3"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["Symbol1"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["Symbol2"].SortMode = DataGridViewColumnSortMode.NotSortable;
+
+            DGV1.Columns["Symbol3"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["StrikePrice"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["StrikePrice2"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["StrikePrice3"].SortMode = DataGridViewColumnSortMode.NotSortable;
+
+            DGV1.Columns["OptionType"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["OptionType2"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            //====================
+            DGV1.Columns["OptionType3"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["ratio1"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["ratio2"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["ratio3"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["Token1"].SortMode = DataGridViewColumnSortMode.NotSortable;
+
+            DGV1.Columns["Token2"].SortMode = DataGridViewColumnSortMode.NotSortable;
+            DGV1.Columns["Token3"].SortMode = DataGridViewColumnSortMode.NotSortable;
+           
+            //=====================
+
+
+
+
 
             SetDisplayRules(this.DGV1.Columns["PF"], "PF");
 

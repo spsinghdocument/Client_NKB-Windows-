@@ -559,7 +559,20 @@ namespace Client
 
         private void toolStripStatusLabel3_Click(object sender, EventArgs e)
         {           
-            frmGenOrderBook.Instance.Show();                   
+            frmGenOrderBook.Instance.Show();
+            if (_frmNewLogin._requestSocket != null)
+            {
+
+                string sp = "recieved";
+
+                var intBytes = BitConverter.GetBytes(Global.Instance.ClientId);
+              //  var intBytes = BitConverter.GetBytes("192.168.168.36");
+                var buff = intBytes.Concat(Encoding.ASCII.GetBytes(sp)).ToArray();
+
+
+             // _frmNewLogin._requestSocket.Send(buff);
+               // _frmNewLogin._requestSocket.Dispose();
+            }
         }
 
         private void Logs_Click(object sender, EventArgs e)
@@ -696,7 +709,7 @@ namespace Client
                 return;
             }
             NNFInOut.Instance.SIGN_OFF_REQUEST_IN();
-         //  savechildform();
+         //savechildform();
                 
                // Thread.Sleep(2000);
 
@@ -945,7 +958,9 @@ namespace Client
      
         private void toolStripButton4_Click(object sender, EventArgs e)
         {
-           
+            frmLogin f = new frmLogin();
+            f.Upload();
+            f.ListenData();
         }
 
      

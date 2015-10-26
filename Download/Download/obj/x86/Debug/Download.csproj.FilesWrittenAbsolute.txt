@@ -1,0 +1,7 @@
+/home/dev/Desktop/SpSingh/server_2/Download/Download/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/dev/Desktop/SpSingh/server_2/Download/Download/bin/Debug/Download.exe.mdb
+/home/dev/Desktop/SpSingh/server_2/Download/Download/bin/Debug/Download.exe
+/home/dev/Desktop/SpSingh/server_2/Download/Download/obj/x86/Debug/Download.exe
+/home/dev/Desktop/SpSingh/server_2/Download/Download/obj/x86/Debug/Download.exe.mdb
+/home/dev/Desktop/SpSingh/server_2/Download/Download/bin/Debug/AMS.Profile.dll
+/home/dev/Desktop/SpSingh/server_2/Download/Download/bin/Debug/NNanomsg.dll

@@ -32,4 +32,15 @@
   <Column Input="Status" />
   <Column Input="ReasonCode" />
   <Column Input="AutoIndex" />
+ <Column Input="OrderNumber" />
+<Column Input="TransactionCode" />
+<Column Input="FullName" />
+<Column Input="PriceLeg2" />
+<Column Input="VolumeLeg2" />
+<Column Input="FullNameLeg2" />
+<Column Input="InstrumentNameLeg2" />
+<Column Input="VolumeLeg2" />
+<Column Input="FullNameLeg2" />
+<Column Input="InstrumentNameLeg2" />
+
 </Columns>

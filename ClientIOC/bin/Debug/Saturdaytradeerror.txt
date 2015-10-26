@@ -2001,3 +2001,11 @@ Date : 19/09/2015 Time    :  1:26 PM  Second : 57     milisecond  :  88====>>>>>
    at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in e:\Saurabh\New folder (3)\Nar\New folder (3)\New folder\ClientIOC\frmNetBook.cs:line 338
 Date : 19/09/2015 Time    :  1:57 PM  Second : 22     milisecond  :  156====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
    at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in e:\Saurabh\New folder (3)\Nar\New folder (3)\New folder\ClientIOC\frmNetBook.cs:line 338
+Date : 24/10/2015 Time    :  2:29 PM  Second : 58     milisecond  :  321====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 340
+Date : 24/10/2015 Time    :  3:35 PM  Second : 15     milisecond  :  73====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 340
+Date : 24/10/2015 Time    :  4:06 PM  Second : 41     milisecond  :  672====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 340
+Date : 24/10/2015 Time    :  5:00 PM  Second : 13     milisecond  :  279====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 340

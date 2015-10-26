@@ -25,3 +25,18 @@ Date : 20/10/2015 Time    :  5:21 PM  Second : 52     milisecond  :  304====>>>>
    at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
 Date : 20/10/2015 Time    :  5:21 PM  Second : 58     milisecond  :  385====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
    at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 338
+Date : 20/10/2015 Time    :  6:08 PM  Second : 9     milisecond  :  813====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
+Date : 20/10/2015 Time    :  6:09 PM  Second : 32     milisecond  :  574====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
+Date : 20/10/2015 Time    :  6:10 PM  Second : 33     milisecond  :  31====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
+Date : 20/10/2015 Time    :  6:14 PM  Second : 12     milisecond  :  915====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247
+Date : 20/10/2015 Time    :  6:15 PM  Second : 48     milisecond  :  787====>>>>>>>   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.set_Item(String columnName, Object value)
+   at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 247

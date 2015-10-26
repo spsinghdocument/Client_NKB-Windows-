@@ -1,0 +1,245 @@
+﻿<DocumentElement>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>          </Symbol>
+    <TokenNo>64865</TokenNo>
+    <Buy_SellIndicator>SELL</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>0</StrikePrice>
+    <Price>666.57</Price>
+    <FillPrice>652.09</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>0</ExpiryDate>
+    <DisclosedVolume>0</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183439957</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>3.61044899180777E-312</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>?        </Symbol>
+    <TokenNo>64863</TokenNo>
+    <Buy_SellIndicator>SELL</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>2145603795</StrikePrice>
+    <Price>376.8</Price>
+    <FillPrice>449.7</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>-435159040</ExpiryDate>
+    <DisclosedVolume>-3759706</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183440013</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>5.5485794327836E-313</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>?        </Symbol>
+    <TokenNo>64865</TokenNo>
+    <Buy_SellIndicator>BUY</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>2145603795</StrikePrice>
+    <Price>620.41</Price>
+    <FillPrice>231.58</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>-435159040</ExpiryDate>
+    <DisclosedVolume>0</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183440069</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>2.93149322915947E-312</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>          </Symbol>
+    <TokenNo>48897</TokenNo>
+    <Buy_SellIndicator>SELL</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>0</StrikePrice>
+    <Price>986.96</Price>
+    <FillPrice>811.97</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>0</ExpiryDate>
+    <DisclosedVolume>0</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183440129</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>4.56618439072792E-314</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>?        </Symbol>
+    <TokenNo>48897</TokenNo>
+    <Buy_SellIndicator>BUY</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>2145603795</StrikePrice>
+    <Price>777.44</Price>
+    <FillPrice>976.36</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>-435159040</ExpiryDate>
+    <DisclosedVolume>2145603795</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183440188</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>2.5496168772463E-312</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>          </Symbol>
+    <TokenNo>64863</TokenNo>
+    <Buy_SellIndicator>BUY</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>0</StrikePrice>
+    <Price>872.98</Price>
+    <FillPrice>836.49</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>0</ExpiryDate>
+    <DisclosedVolume>0</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183440247</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>5.05357191058532E-312</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>?        </Symbol>
+    <TokenNo>64863</TokenNo>
+    <Buy_SellIndicator>SELL</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>2145603795</StrikePrice>
+    <Price>148.63</Price>
+    <FillPrice>526.79</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>-435159040</ExpiryDate>
+    <DisclosedVolume>-3759706</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183440305</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>2.08286069369453E-312</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>?        </Symbol>
+    <TokenNo>48897</TokenNo>
+    <Buy_SellIndicator>BUY</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>2145603795</StrikePrice>
+    <Price>313.22</Price>
+    <FillPrice>683.75</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>-435159040</ExpiryDate>
+    <DisclosedVolume>2145603795</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183624389</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>2.94475732180731E-312</Unique_id>
+  </TradeBook>
+  <TradeBook>
+    <InstrumentName>      </InstrumentName>
+    <Symbol>?        </Symbol>
+    <TokenNo>64863</TokenNo>
+    <Buy_SellIndicator>SELL</Buy_SellIndicator>
+    <OptionType>  </OptionType>
+    <StrikePrice>2145603795</StrikePrice>
+    <Price>267.7</Price>
+    <FillPrice>522.48</FillPrice>
+    <FillNumber>0</FillNumber>
+    <Volume>25</Volume>
+    <Status>Traded</Status>
+    <AccountNumber>          </AccountNumber>
+    <BrokerId>12468</BrokerId>
+    <ExpiryDate>-435159040</ExpiryDate>
+    <DisclosedVolume>-3759706</DisclosedVolume>
+    <DisclosedVolumeRemaining>0</DisclosedVolumeRemaining>
+    <GoodTillDate>0</GoodTillDate>
+    <LogTime>2015-09-04T00:00:00</LogTime>
+    <Open_Close>O</Open_Close>
+    <OrderNumber>183624448</OrderNumber>
+    <TotalVolumeRemaining>0</TotalVolumeRemaining>
+    <TraderId>30072</TraderId>
+    <TransactionCode>20222</TransactionCode>
+    <VolumeFilledToday>0</VolumeFilledToday>
+    <Unique_id>1.6486020735815E-314</Unique_id>
+  </TradeBook>
+</DocumentElement>

@@ -242,12 +242,14 @@ namespace Client
 
                  i["Delta"] = 0;
                   i["NetQtyDelta"] = 0;
-                     
 
-                 i["BUYRATE"] = Math.Round(Convert.ToDouble(query1[j].buy_rate), 3);
-                 i["SELLRATE"] = Math.Round(Convert.ToDouble(query1[j].Sell_rate), 3);
-                 i["BUYVALUE"] = Math.Round(Convert.ToDouble((query1[j].buy_rate) * (query1[j].BuyQty)), 3);
-                 i["SELLVALUE"] = Math.Round(Convert.ToDouble((query1[j].Sell_rate) * (query1[j].SellQty)), 3);
+
+                  i["BUYVALUE"] = Math.Round(Convert.ToDouble((-query1.FirstOrDefault().BuyAvg) * (query1.FirstOrDefault().BuyQty)), 3);
+
+
+                  i["SELLVALUE"] = Math.Round(Convert.ToDouble((-query1.FirstOrDefault().SellAvg) * (-query1.FirstOrDefault().SellQty)), 3);
+                 //i["BUYVALUE"] = Math.Round(Convert.ToDouble((query1[j].buy_rate) * (query1[j].BuyQty)), 3);
+                 //i["SELLVALUE"] = Math.Round(Convert.ToDouble((query1[j].Sell_rate) * (query1[j].SellQty)), 3);
                  i["MTM"] = 0;
                  //======= ==========  ========= =============  ========== ===========  =======================  ============  ==========
                //  lblbq.Text = Global.Instance.NetBookTable.AsEnumerable().Sum(x => x.Field<int>("BuyQty")).ToString();
@@ -265,7 +267,7 @@ namespace Client
                // lvlSealval.Text = Global.Instance.NetBookTable.AsEnumerable().Sum(x => x.Field<double>("SELLVALUE")).ToString();
                ////  lvlMtm.Text = Global.Instance.NetBookTable.AsEnumerable().Sum(x => x.Field<double>("MTM")).ToString();
 
-                 //============ ============  ========== ========= ==============  ==================  ==================== =============  ======== =======
+                 //============ ============  ========== ========= ======= =======  ==================  ==================== =============  ======== =======
                  Global.Instance.NetBookTable.Rows.Add(i);
 
 

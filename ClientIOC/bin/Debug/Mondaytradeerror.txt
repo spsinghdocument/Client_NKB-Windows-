@@ -899,3 +899,11 @@ Date : 19/10/2015 Time    :  5:22 PM  Second : 48     milisecond  :  866====>>>>
    at Client.frmNetBook.netposion2(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 182
 Date : 19/10/2015 Time    :  6:00 PM  Second : 1     milisecond  :  984====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
    at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\ClientIOC\frmNetBook.cs:line 338
+Date : 26/10/2015 Time    :  9:26 AM  Second : 49     milisecond  :  694====>>>>>>>   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 422
+Date : 26/10/2015 Time    :  9:26 AM  Second : 49     milisecond  :  753====>>>>>>>   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 422
+Date : 26/10/2015 Time    :  10:07 AM  Second : 43     milisecond  :  238====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 340
+Date : 26/10/2015 Time    :  10:31 AM  Second : 54     milisecond  :  541====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 340
+Date : 26/10/2015 Time    :  10:40 AM  Second : 45     milisecond  :  675====>>>>>>>   at System.Linq.Enumerable.First[TSource](IEnumerable`1 source)
+   at Client.frmNetBook.netposion(Int32 tok, Int32 lotsize, Int32 Tlot, Double b_s, Double rate) in c:\Users\Developer4\Desktop\New folder (3)\NAR\New folder\ClientIOC\frmNetBook.cs:line 340

@@ -11,7 +11,7 @@
     <Expiry1>29/10/2015</Expiry1>
     <Lot_Size1>25</Lot_Size1>
     <Option_Type1>CE</Option_Type1>
-    <Strike_Price1>8000</Strike_Price1>
+    <Strike_Price1>8200</Strike_Price1>
     <Ratio1>1</Ratio1>
     <Buy_Sell>Buy</Buy_Sell>
     <Exchange2>NFO</Exchange2>
@@ -21,7 +21,7 @@
     <Expiry2>29/10/2015</Expiry2>
     <Lot_Size2>25</Lot_Size2>
     <Option_Type2>CE</Option_Type2>
-    <Strike_Price2>8100</Strike_Price2>
+    <Strike_Price2>8300</Strike_Price2>
     <Ratio2>1</Ratio2>
     <Buy_Sel2>Sell</Buy_Sel2>
   </spreadtracker>

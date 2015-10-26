@@ -78,18 +78,13 @@
   <Column Input="_con_WTC" />
   <Column Input="_sell_WTC" />
   <Column Input="_sell_con_WTC" />
-  <Column Input="Expiry" />
-  <Column Input="Expiry2" />
   <Column Input="Expiry3" />
-  <Column Input="Symbol1" />
-  <Column Input="Symbol2" />
   <Column Input="Symbol3" />
-  <Column Input="OptionType2" />
-  <Column Input="OptionType" />
   <Column Input="StrikePrice2" />
   <Column Input="StrikePrice" />
   <Column Input="StrikePrice3" />
   <Column Input="OptionType3" />
-  <Column Input="cost" />
   <Column Input="NETDelta" />
+ <Column Input="ratio3" />
+ <Column Input="W_T_C" />
 </Columns>

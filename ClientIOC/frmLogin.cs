@@ -24,6 +24,7 @@ namespace Client
 
     public partial class frmLogin : Form
     {
+        Thread t;
         public delegate void testDelegate(string str);
         public frmLogin()
         {
@@ -51,8 +52,8 @@ namespace Client
                 List<Task> tasks = new List<Task>();
                 NNFInOut.Instance.SIGN_ON_REQUEST_IN();
                 
-    Thread.Sleep(5000);
- // Global.Instance.SignInStatus = true;
+  //  Thread.Sleep(5000);
+  Global.Instance.SignInStatus = true;
            // UDP_Reciever.Instance.UDPReciever(); 
             if (Global.Instance.SignInStatus)
                 {
@@ -62,12 +63,15 @@ namespace Client
                     if (cbDownHistory.CheckState == CheckState.Checked)
                     {
                         //  StartDownload();
-
-                        Thread t = new Thread(new ThreadStart(ListenData));
-                        t.Start();
-
-
-                        Upload();
+                        //Upload();
+                        Thread t1 = new Thread(new ThreadStart(Upload));
+                    t1.Start(); 
+                       Thread t2 = new Thread(new ThreadStart(ListenData));
+                        t2.Start();
+                   //     ListenData();
+                       
+                        
+                       
                         
            
                         //  File.Copy(@"\\192.168.168.36\share\vSphere\vSphere.exe", "E:\\abc.xml", true);
@@ -328,33 +332,51 @@ namespace Client
 
             //==========================================================================Donl=============================================
             #region download
-         
-             
-        
 
 
-            void Upload()
+
+
+            public RequestSocket _requestSocket = null;
+          public  void Upload()
             {
+                try
+                {
+
+                    //    PublishSocket PubClient = new PublishSocket();
+                    ////    PubClient.Bind("tcp://" + Global.Instance.LanIp + ":" + "8001");
+                    //    PubClient.Bind("tcp://"+"192.168.168.36"+ ":" + "8001");
 
 
-                PublishSocket PubClient = new PublishSocket();
-                PubClient.Bind("tcp://" + Global.Instance.LanIp + ":" + "8001");
-                Thread.Sleep(10000);
+                    //    // label1.Text = "Come";
+                    //    string sp = "upload";
+                    //  //  Console.WriteLine(sp.Length);
+
+                    //    var intBytes = BitConverter.GetBytes(Global.Instance.ClientId);
+                    //    var buff = intBytes.Concat(Encoding.ASCII.GetBytes(sp)).ToArray();
+                    //    Thread.Sleep(10000);
+                    //    PubClient.Send(buff);
+
+                    //    PubClient.Dispose();
+                    //  Console.WriteLine(sp);
+
+                    _requestSocket = new RequestSocket();
+                    _requestSocket.Connect("tcp://" + Global.Instance.NNFConIp + ":" + "8222");
+
+                  //  _requestSocket.Connect("tcp://" + "192.168.168.36" + ":" + "8222");
+                   
+                    string sp = "upload";
+
+                    var intBytes = BitConverter.GetBytes(Global.Instance.ClientId);
+                    var buff = intBytes.Concat(Encoding.ASCII.GetBytes(sp)).ToArray();
 
 
-                // label1.Text = "Come";
-                string sp = "upload";
-              //  Console.WriteLine(sp.Length);
+                    _requestSocket.Send(buff);
+                   // _requestSocket.Dispose();
+                }
+              catch(Exception es)
+                {
 
-                var intBytes = BitConverter.GetBytes(Convert.ToInt64(Global.Instance.ClientId));
-                var buff = intBytes.Concat(Encoding.ASCII.GetBytes(sp)).ToArray();
-               
-                PubClient.Send(buff);
-                PubClient.Dispose();
-                //  Console.WriteLine(sp);
-
-
-
+              }
             }
             public void ListenData()
             {
@@ -373,6 +395,7 @@ namespace Client
                test(result);
                 tc.Close();
                 tl.Stop();
+              
 
             }
 

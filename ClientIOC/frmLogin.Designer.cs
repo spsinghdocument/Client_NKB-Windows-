@@ -55,8 +55,6 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
             this.txtPassword = new System.Windows.Forms.TextBox();
-            this.Client_Type = new System.Windows.Forms.Label();
-            this.Type_Client = new System.Windows.Forms.TextBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -314,30 +312,11 @@
             this.txtPassword.TabIndex = 51;
             this.txtPassword.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtPassword_KeyDown);
             // 
-            // Client_Type
-            // 
-            this.Client_Type.AutoSize = true;
-            this.Client_Type.Location = new System.Drawing.Point(148, 214);
-            this.Client_Type.Name = "Client_Type";
-            this.Client_Type.Size = new System.Drawing.Size(63, 13);
-            this.Client_Type.TabIndex = 52;
-            this.Client_Type.Text = "Client_Type";
-            // 
-            // Type_Client
-            // 
-            this.Type_Client.Location = new System.Drawing.Point(217, 210);
-            this.Type_Client.Name = "Type_Client";
-            this.Type_Client.Size = new System.Drawing.Size(66, 20);
-            this.Type_Client.TabIndex = 12;
-            this.Type_Client.Text = "IOC";
-            // 
             // frmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(353, 328);
-            this.Controls.Add(this.Type_Client);
-            this.Controls.Add(this.Client_Type);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.txtPassword);
             this.Controls.Add(this.groupBox1);
@@ -403,7 +382,5 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label11;
         public System.Windows.Forms.TextBox txtPassword;
-        private System.Windows.Forms.Label Client_Type;
-        private System.Windows.Forms.TextBox Type_Client;
     }
 }
